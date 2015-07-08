@@ -1,0 +1,28 @@
+{
+  "name": "McoLabs/Normalizer",
+  "description": "Normalizer for Serializer",
+  "type": "Normalizer",
+  "authors": [
+    {
+      "name": "Mike20uf",
+      "email": "Mike20uf@gmail.com"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
+  "require": {
+    "php": "~5.3",
+    "symfony/symfony": "~2.7",
+    "sensio/framework-extra-bundle": ">=3.0.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "McoLabs\\RestFul": ""
+    }
+  },
+  "target-dir": "McoLabs/Normalizer"
+}
