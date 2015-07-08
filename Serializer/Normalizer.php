@@ -1,6 +1,6 @@
 <?php
 
-namespace McoLabs\Normalizer;
+namespace mcolabs\normalizer;
 
 use Symfony\Component\Serializer\Exception\CircularReferenceException;
 use Symfony\Component\Serializer\Exception\LogicException;
